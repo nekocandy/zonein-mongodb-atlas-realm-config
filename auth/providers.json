@@ -14,9 +14,9 @@
         "type": "local-userpass",
         "config": {
             "confirmEmailSubject": "Confirm your email for ZoneIn",
-            "emailConfirmationUrl": "https://zonein.tech/auth/verify",
+            "emailConfirmationUrl": "https://zonein.tech/api/auth/verify",
             "resetPasswordSubject": "Reset your password for ZoneIn",
-            "resetPasswordUrl": "https://zonein.tech/auth/reset"
+            "resetPasswordUrl": "https://zonein.tech/api/auth/reset"
         },
         "disabled": false
     }
